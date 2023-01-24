@@ -16,33 +16,33 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Himanshu hada</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">A passionate engineer and freelancer with a wealth of experience, I bring a unique blend of technical expertise and creativity to every project. With over 5 years of experience in the field, I've honed my skills in web apps, android apps, and hybrid apps development. My team and I are dedicated to delivering high-quality, professional solutions that exceed expectations. We work on a variety of projects, including remote and offline freelance projects on a contract, short-term, and long-term basis. Let's work together to make your vision a reality.</p>
 
-- 🔭 I’m currently working on [travel agency project](link)
+- 🔭 I’m currently working on [Freelance & Open Source Projects](link)
 
-- 🌱 I’m currently learning **flutter development**
+- 🌱 I’m currently learning **Hybrid Development**
 
-- 👯 I’m looking to collaborate on [android kotlin project](link)
+- 👯 I’m looking to collaborate on [Android Kotlin Project](link)
 
-- 🤝 I’m looking for help with [MERN Stack](link)
+- 🤝 I’m looking for help with [IOS Application Development](link)
 
 - 👨‍💻 All of my projects are available at [freelancehimanshu.tech](freelancehimanshu.tech)
 
 - 📝 I regularly write articles on [https://medium.com/@himanshuhada380](https://medium.com/@himanshuhada380)
 
-- 💬 Ask me about **react, vuejs, gsap,django,etc**
+- 💬 Ask me about **react, vuejs, gsap, django, javascript**
 
 - 📫 How to reach me **himanshuhada380@gmail.com**
 
-- 📄 Know about my experiences [download](download)
+- 📄 Know about my experiences [Download](download)
 
-- ⚡ Fun fact **i watch anime on daily basis and read books**
+- ⚡ Fun fact **i love books like atomic habbits & ikigai and watch animes frequently**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect :</h3>
 <p align="left">
 <a href="https://twitter.com/_himanshu_hada_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_himanshu_hada_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshu-hada-2b96a41b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu-hada-2b96a41b4" height="30" width="40" /></a>
