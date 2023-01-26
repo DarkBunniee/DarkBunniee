@@ -48,6 +48,8 @@ Here are some ideas to get you started:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cracking the Code: Proven Strategies for Landing High-Paying Freelancing Client](https://medium.com/@himanshuhada380/cracking-the-code-proven-strategies-for-landing-high-paying-freelancing-client-feb346b3f4ef?source=rss-6f45e2df6b48------2)
+- [How to start Freelancing and became a 7 figure freelancer in India.](https://medium.com/@himanshuhada380/how-to-start-freelancing-and-became-a-7-figure-freelancer-in-india-32a38ccb85c2?source=rss-6f45e2df6b48------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect :</h3>
