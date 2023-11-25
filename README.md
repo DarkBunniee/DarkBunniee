@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [IOS Application Development](link)
 
-- 👨‍💻 All of my projects are available at [freelancehimanshu.tech](freelancehimanshu.tech)
+- 👨‍💻 All of my projects are available at [freelancehimanshu.com](freelancehimanshu.com)
 
 - 📝 I regularly write articles on [https://medium.com/@himanshuhada380](https://medium.com/@himanshuhada380)
 
