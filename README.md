@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![DarBunniee GitHub Banner](./gif/andxkt.gif)](https://freelancehimanshu.tech/)
 
 <h1 align="center">Hi 👋, freelancehimanshu here</h1>
-<p align="center" >A passionate engineer and freelancer with a wealth of experience, I bring a unique blend of technical expertise and creativity to every project. With over 5 years of experience in the field, I've honed my skills in web apps, android apps, and hybrid apps development. My team and I are dedicated to delivering high-quality, professional solutions that exceed expectations. We work on a variety of projects, including remote and offline freelance projects on a contract, short-term, and long-term basis. Let's work together to make your vision a reality.</p>
+<p align="center" >A passionate engineer and freelancer with a wealth of experience, I bring a unique blend of technical expertise and creativity to every project. With over hands on project of experience in the field, I've honed my skills in web apps, android apps, and hybrid apps development. My team and I are dedicated to delivering high-quality, professional solutions that exceed expectations. We work on a variety of projects, including remote and offline freelance projects on a contract, short-term, and long-term basis. Let's work together to make your vision a reality.</p>
 
 <img align="right" alt="coding" width="200" src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif">
 
